@@ -1,6 +1,6 @@
 # PWA with Advanced Service Worker Strategies
 
-## This is a [DevToys.io](https://devtoys.io) blog tutorial example PWA app for educational purpose only!
+## [This is a DevToys.io blog tutorial example PWA app for educational purpose only!](https://devtoys.io)
 
 ### Visit [🔗 Here for the Original Blog!](https://devtoys.io/2024/07/10/mastering-service-workers-advanced-strategies-for-pwas/)
 
